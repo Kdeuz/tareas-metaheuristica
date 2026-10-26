@@ -1,0 +1,26 @@
+# Compilation
+*.class
+bin/
+out/
+target/
+build/
+
+# Archives
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
